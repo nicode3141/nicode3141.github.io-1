@@ -4,7 +4,7 @@
 
 ### 2. Nehmen sie ein Plactron zur Hand und trennen damit das Display vom Gehäuse .
 
-### 3. Schließen sie die schraze Kappe vom Displaykaben ab und ziehen das Kabel heraus .
+### 3. Schließen sie die schwarze Kappe vom Displaykabel ab und ziehen das Kabel heraus .
 
 
 
